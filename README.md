@@ -1,4 +1,4 @@
-# NPA-Authenticity-Protocol
+# NAP-Authenticity-Protocol
 非虚构写作真实度协议（Non-fiction-writing Authenticity Protocol）
 
 ### 非虚构写作真实度协议（Non-fiction-writing Authenticity Protocol）
